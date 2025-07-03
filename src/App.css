@@ -1,0 +1,68 @@
+*{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.h-65 {height: 65vh !important; overflow: hidden;}
+.h-70 {height: 70vh !important; overflow: hidden;}
+.h-80 {height: 80vh !important; overflow: hidden;}
+.h-100 {height: 100vh !important; overflow: hidden;}
+
+.of-auto{overflow-y: auto !important;}
+.of-none{overflow: hidden;}
+
+.fs-large {
+  font-size: 70px;
+  font-weight: 300;
+}
+
+.fs-xlarge {
+  font-size: 100px;
+  font-weight: 300;
+}
+
+.img-container{
+  width: 50px !important;
+  aspect-ratio: 1;
+  border-radius: 50% !important;
+  background-position: center;
+  background-size: 100%;
+}
+
+.img-container-2{
+  width: 35px !important;
+  aspect-ratio: 1;
+  border-radius: 50% !important;
+  background-position: center;
+  background-size: 100%;
+}
+
+.pointer, .list-group-item-action {cursor: pointer;}
+
+.spinner-container{
+  height: 65vh !important;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner-container .spinner-border{
+  height: 150px !important;
+  width: 150px !important;
+  border-width: 1.5px;
+}
+
+div.active-country{
+  width: 100px;
+}
+
+.top-bar, .top-bar .active-conntry {
+  transition: 1s all ease-in-out !important;
+}
+
+
+/* Weather background */
+
+/* .bg-sunny{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2OIGbFVFxqqkIcdnC4An1pZ5ieF5yrIn0w&s');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+} */

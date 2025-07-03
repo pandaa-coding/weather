@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Berat",
+        "region": "Berat",
+        "country": "Albania",
+        "lat": 40.7058,
+        "lon": 19.9522,
+        "tz_id": "Europe/Tirane",
+        "localtime_epoch": 1751237966,
+        "localtime": "2025-06-30 00:59"
+    },
+    "current": {
+        "last_updated_epoch": 1751237100,
+        "last_updated": "2025-06-30 00:45",
+        "temp_c": 21.3,
+        "temp_f": 70.3,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 6.3,
+        "wind_kph": 10.1,
+        "wind_degree": 111,
+        "wind_dir": "ESE",
+        "pressure_mb": 1015,
+        "pressure_in": 29.96,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 43,
+        "cloud": 0,
+        "feelslike_c": 21.3,
+        "feelslike_f": 70.3,
+        "windchill_c": 21.3,
+        "windchill_f": 70.3,
+        "heatindex_c": 24,
+        "heatindex_f": 75.3,
+        "dewpoint_c": 8.3,
+        "dewpoint_f": 46.9,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 0,
+        "gust_mph": 13.2,
+        "gust_kph": 21.2
+    }
+}
